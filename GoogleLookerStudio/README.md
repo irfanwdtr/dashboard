@@ -15,8 +15,10 @@ Selain itu, dashboard menyajikan ringkasan kondisi cuaca terkini seperti suhu, k
 ---
 
 ## Dashboard Penyakit Jantung1 – Faktor Risiko
+
 Dashboard ini menyajikan analisis faktor risiko penyakit jantung berdasarkan data pasien, mencakup perbedaan risiko antara laki-laki dan perempuan, distribusi usia, serta indikator klinis seperti kolesterol, tekanan darah, detak jantung maksimum, dan hasil elektrokardiografi.  
 Visualisasi ini bertujuan membantu memahami pola risiko penyakit jantung serta pentingnya gaya hidup sehat seperti olahraga teratur dan diet seimbang dalam menurunkan risiko.
+
 ![Dashboard Penyakit Jantung1](dashboard1.png)
 ---
 
